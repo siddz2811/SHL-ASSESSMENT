@@ -1,0 +1,12 @@
+# 1 Ran my application,API Endpoints successfully on local machine successfully, had problems during cloud deployment<br>
+# 2 rag_api_fastapi.py contains API endpoints running successfully basically the whole backend<br>
+# 3 webapp codes folder has codes html,css,javascript codes for web application that was running successfully<br>
+# 4 CRAWL.IPYNB displays how the data was extracted from SHL Product catalog to shl_individual_test.csv which was then used in our rag application<br>
+# 5 TrainData123.xlsx shows the results of our model on the training dataset of Gen_AI Dataset.xlsx<br>
+# 6 Testdata11.csv shows results of our model on the test set<br>
+# 7 EEEEvaluations_Recall@K.xlsx shows recall results of each query that ran on the training dataset.
+# 7 ragss.ipynb <br>
+It is a Jupyter Notebook providing an interactive environment for developing and testing the RAG workflow for assessment recommendation.<br>
+It allows experimentation with different data sources, embedding models, retrieval strategies, and prompt engineering—all within a notebook interface.<br>
+The test-set.csv,eeevaluation.csv file all was generated here<br>
+Contains the whole structure of the code which was basically then modularized into rag_api_fastapi.py for further developing API endpoints.
